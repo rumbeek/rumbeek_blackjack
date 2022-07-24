@@ -177,6 +177,4 @@ while running:
         points(f"Dealer: {game.dp.point}", 775, 125, 200, 50, dark_slat)
         points(f"Player: {game.pp.point}", 775, 200, 200, 50, dark_slat)
 
-
     pygame.display.update()
-
